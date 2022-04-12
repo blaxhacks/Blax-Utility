@@ -1,9 +1,9 @@
 // https://discord.gg/d2bujc2qAQ
 console.log('You should follow the github page :) https://github.com/tremblero')
 let blook = prompt('What blook are you trying to get?')
-let chance = prompt('What chance does it have? Mysticals are usually 0.005')
+let chance = prompt('What is the percentage of the blook?')
 let boxes = prompt('How many boxes are you opening?')
-let amount = prompt('How many are you aiming for?')
+let amount = prompt('How much blooks do you want?')
 alert('Press OK to calculate')
  
 let calculation = chance * boxes
